@@ -1,4 +1,4 @@
-![](https://github.com/hietalajulius/word-2-vec-nlp/blob/master/cover.gif?raw=true)
+![](https://github.com/hietalajulius/k-ruoka-recipes/blob/master/cover.gif?raw=true)
 
 
 
