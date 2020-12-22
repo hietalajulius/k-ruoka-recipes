@@ -1,3 +1,7 @@
+![](https://github.com/hietalajulius/word-2-vec-nlp/blob/master/cover.gif?raw=true)
+
+
+
 Junction project directory
 
 ## Setup
